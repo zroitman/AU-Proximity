@@ -224,4 +224,4 @@ async def msg_send(msg):
     await text.send(msg)
 
 
-bot.run("Nzg5NjcyNTg0NzczMzY5ODg2.X91d5w.-_ayjququ05GZGF7dKGxnVonYrk")
+bot.run("TOKEN")
